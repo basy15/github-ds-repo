@@ -83,9 +83,13 @@ The contractor should build the store where it is closest to its customers in or
 
 ### Results:
 Based on this analysis, the best recommended neighborhood will be:
+
 Neighborhood: Willowdale South,
+
 Postal Code: M2N,
+
 Neighborhood Latitude: 43.770120,
+
 Neighborhood Longitude: -79.408493
 
 ### Thanks a lot for reading!
