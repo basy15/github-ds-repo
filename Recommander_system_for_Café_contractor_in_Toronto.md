@@ -82,7 +82,11 @@ The contractor should build the store where it is closest to its customers in or
 **Now, we focus on the centers of clusters and compare them for their "Total Restaurants". The group which its center has the highest "Total Sum" will be our best recommendation to the contractor. {Note: Total Sum = Total  Restaurants + Total Joints + Other Venues.} This algorithm although is pretty straightforward yet is strongly powerful. **
 
 ### Results:
-...
+Based on this analysis, the best recommended neighborhood will be:
+{'Neighborhood': 'Willowdale South',
+'Postal Code': 'M2N',
+'Neighborhood Latitude': 43.770120,
+'Neighborhood Longitude': -79.408493}
 
 ### Thanks a lot for reading!
 *--------------------------------------------------------------------------*
